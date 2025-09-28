@@ -56,7 +56,6 @@ Apabila ketua ingin menghapus atau mengeluarkan anggotanya, maka pilih menu ke 3
 <img width="390" height="106" alt="Screenshot 2025-09-28 211852" src="https://github.com/user-attachments/assets/69907b0c-2c60-4356-bd37-68092160e1c4" />  
 
 Pada menu ke 4 ketua dapat menambahkan tugas dan tugas baru akan masuk ke data.  
-
 Apabila ingin kembali ke menu utama pilih 5 (keluar) dan akan langsung menampilkan menu utama.  
 
 # 2. Login panitia  
